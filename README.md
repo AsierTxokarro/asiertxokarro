@@ -5,7 +5,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en Cuatroviento
 
 - **Java** (POO, herencia, JUnit, proyectos completos)  
 - **SQL Server** (tablas, claves, procedimientos, triggers)  
-- **VB.NET** (formularios, conexión a base de datos, lógica de negocio)  
+- **VB.NET** (formularios, conexión a base de datos, lógica)  
 - **Bash** (scripts de administración y automatización)  
 - **HTML / CSS / JavaScript**  
 - **IoT con ESP32** (sensores, relés, automatización y prototipos reales)
