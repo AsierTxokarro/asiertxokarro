@@ -1,5 +1,5 @@
 # ¡Hola! Soy Asier Txokarro  
-### Desarrollador Junior • DAM • IoT • Web • MedTech (en progreso)
+### Desarrollador Junior • DAM • IoT • Web • MedTech 
 
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en Cuatrovientos y actualmente estoy construyendo mi base como desarrollador en:
 
