@@ -73,6 +73,6 @@ IoT, automatización, MedTech, visualización de datos, aplicaciones conectadas.
 ---
 
 ### Gracias por pasarte por mi perfil   
-> *“Progreso diario, proyectos reales, futuro claro.”*
+
 
 
