@@ -1,78 +1,70 @@
-# ¡Hola! Soy Asier Txokarro  
-### Desarrollador Junior • DAM • IoT • Web • MedTech 
+# 👋 Hi, I'm Asier
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma** en Cuatrovientos y actualmente estoy construyendo mi base como desarrollador en:
-
-- **Java** (POO, herencia, JUnit, proyectos completos)  
-- **SQL Server** (tablas, claves, procedimientos, triggers)  
-- **VB.NET** (formularios, conexión a base de datos, lógica)  
-- **Bash** (scripts de administración y automatización)  
-- **HTML / CSS / JavaScript**  
-- **IoT con ESP32** (sensores, relés, automatización y prototipos reales)
+🎓 Multiplatform Application Development student (DAM)  
+💻 Junior Developer focused on desktop apps & databases  
+🚀 Building real projects while learning every day  
 
 ---
 
-## Proyecto actual — *HFP*
-Estoy desarrollando un sistema IoT inteligente:
+## 🧠 About Me
 
-- ESP32 + sensores  
-- Automatización mediante Apis y sensores
-- App y red social   
-- Documentado y diseñado como un proyecto real
+I'm currently studying DAM and developing applications using VB.NET, Java and SQL Server.  
+I enjoy learning by building projects and understanding how things work under the hood.
 
+Right now I'm working on:
 
-
----
-
-## Algunos de mis proyectos
-### Proyecto Intermodular (Web completa)
-Aplicación web multipágina para un sistema de voluntariado.  
-HTML, CSS (Bulma) y JavaScript.  
-Es uno de mis primeros proyectos completos.
-
-### Scripts de Bash (DAM – Sistemas)
-Aplicación con menú, minijuegos, administración de usuarios y automatización.
-
-### Java OOP Projects
-Ejercicios avanzados de POO, pruebas unitarias y proyectos de clase.
-
-### SQL Server Learning Repo
-Diseño de bases de datos, claves, SP, vistas y triggers.
+- Desktop apps with VB.NET + SQL Server  
+- Java OOP projects  
+- Web basics (HTML & CSS)  
+- IoT exploration (ESP32 – Happy Flower Project 🌱)
 
 ---
 
-## Tecnologías que utilizo
+## 🛠 Tech Stack
 
-**Lenguajes:**  
-Java · SQL · Bash · JavaScript · VB.NET · HTML · CSS  
-
-**Herramientas:**  
-Git · GitHub · Visual Studio · VS Code · Eclipse · SQL Server · Bulma · ESP32  
-
-**Intereses actuales:**  
-IoT, automatización, MedTech, visualización de datos, aplicaciones conectadas.
-
----
-
-## Ahora mismo estoy aprendiendo
-- IoT real con **ESP32**
-- Python para análisis básico
-- Mejores prácticas de programación
-- Estructurar proyectos de forma profesional
-- MedTech y tecnología médica (para mi futuro profesional)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
 ---
 
-## Objetivos 2025–2027
-- Completar mis estudios DAM con buenas bases  
-- Lanzar la demo funcional del **HFP**  
-- Consolidarme como desarrollador (IoT + software)  
-- Prepararme para trabajar en **MedTech**  
-- Seguir creciendo como persona y profesional
+## 📚 Currently
+
+- Studying Multiplatform Application Development (DAM)
+- Building VB.NET applications with SQL Server
+- Practicing Java & OOP concepts
+- Learning JavaScript basics
+- Developing Happy Flower Project (smart irrigation system 🌱)
 
 ---
 
-### Gracias por pasarte por mi perfil   
+## 📊 GitHub Stats
+
+![Asier's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiertxokarro&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiertxokarro&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asiertxokarro&theme=tokyo-night)
+
+---
+
+## 📫 Contact
+
+- Email: (add if you want)
+- LinkedIn: (optional)
+
+---
+
+⭐ Always learning. Always building.
+
 
 
 
