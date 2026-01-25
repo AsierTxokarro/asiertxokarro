@@ -1,32 +1,33 @@
 # 👋 Hi, I'm Asier
 
 🎓 Multiplatform Application Development student (DAM)  
-💻 Junior Developer focused on desktop apps & databases  
+💻 Junior Developer with a growing focus on Med-Tech & Health IT  
 🚀 Building real projects while learning every day  
 
 ---
 
 ## 🧠 About Me
 
-I'm currently studying DAM and developing applications using VB.NET, Java and SQL Server.  
-I enjoy learning by building projects and understanding how things work under the hood.
+I'm currently studying Multiplatform Application Development (DAM) and building a solid foundation in software development, databases, systems and networking.
 
-Right now I'm working on:
+My main interests are healthcare technology, medical software and IT systems applied to clinical environments.  
+I enjoy understanding how applications, infrastructure and data work together to solve real-world problems.
 
-- Desktop apps with VB.NET + SQL Server  
-- Java OOP projects  
-- Web basics (HTML & CSS)  
-- IoT exploration (ESP32 – Happy Flower Project 🌱)
+I'm continuously improving my skills through hands-on projects and technical learning.
 
 ---
 
 ## 🛠 Tech Stack
 
+### Programming & Web
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+
+### Databases & Tools
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
@@ -34,11 +35,13 @@ Right now I'm working on:
 
 ## 📚 Currently
 
-- Studying Multiplatform Application Development (DAM)
-- Building VB.NET applications with SQL Server
-- Practicing Java & OOP concepts
-- Learning JavaScript basics
-- Developing Happy Flower Project (smart irrigation system 🌱)
+- Studying DAM (Multiplatform Application Development)
+- Developing desktop applications with VB.NET + SQL Server
+- Practicing Java and Object-Oriented Programming
+- Learning JavaScript
+- Working with Linux environments and virtual machines
+- Studying networking fundamentals
+- Exploring healthcare interoperability standards such as HL7 & FHIR
 
 ---
 
@@ -53,13 +56,6 @@ Right now I'm working on:
 ## 🔥 Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asiertxokarro&theme=tokyo-night)
-
----
-
-## 📫 Contact
-
-- Email: (add if you want)
-- LinkedIn: (optional)
 
 ---
 
