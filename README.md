@@ -45,14 +45,6 @@ I'm continuously improving my skills through hands-on projects and technical lea
 
 ---
 
-## 📊 GitHub Stats
-
-![Asier's GitHub stats](https://github-readme-stats.vercel.app/api?username=asiertxokarro&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asiertxokarro&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asiertxokarro&theme=tokyo-night)
